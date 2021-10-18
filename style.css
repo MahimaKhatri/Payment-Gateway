@@ -77,7 +77,7 @@ img{
 }
 
 .background{
-	background:rgba(0, 0, 0, 0.4) url('Images/pexels-sadman-chowdhury-1440388.jpg');
+	background:rgba(0, 0, 0, 0.4) url('/Images/pexels-sadman-chowdhury-1440388.jpg');
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-blend-mode:darken;
