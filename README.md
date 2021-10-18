@@ -1,4 +1,4 @@
-# Payment-Gateway
+# Payment Gateway Integration
 
 ## Introduction
 
